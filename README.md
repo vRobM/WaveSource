@@ -1,6 +1,6 @@
-[<img width="1168" height="784" alt="image" src="https://github.com/user-attachments/assets/b448365e-0c51-4ac9-bee2-c084da0f396c" />
+[](https://github.com/user-attachments/assets/b448365e-0c51-4ac9-bee2-c084da0f396c)
 
-# WaveSource](https://source.toldyouso.com)
+# [WaveSource](https://source.toldyouso.com)
 - When matter becomes optional. Download the frequency. Experience the effect.
 
 WaveSource is a platform for capturing frequency signatures from physical materials and short-lived phenomena, then turning those recordings into shareable wave bundles.
